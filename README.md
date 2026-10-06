@@ -46,18 +46,6 @@ Sales leadership of a hardware retailer selling across India needed one place to
 | **Profit Analysis** | Profit margin % and contribution % by market, revenue contribution %, top customers with profit metrics, total profit margin |
 | **Performance Insights** | Revenue vs last year with profit margin % overlay, zone / market / customer / product drill-down, profit target parameter |
 
-**Key Insights** (screenshot filtered to 2020)
-
-![Key Insights](images/key-insights.png)
-
-**Profit Analysis**
-
-![Profit Analysis](images/profit-analysis.png)
-
-**Performance Insights** (revenue vs last year, with a 2% profit target slicer; markets below target show in red)
-
-![Performance Insights](images/performance-insights.png)
-
 **2020 snapshot (Jan to Jun):** ₹142.2M revenue, 350K units, ₹2.1M profit (1.4% margin, below the overall 2.5%). Delhi NCR is 54.7% of revenue but earns only 0.6% margin; Lucknow is loss-making at -2.7%; Bhubaneshwar, Hyderabad and Chennai lead on margin (10.5%, 6.7%, 6.3%). Electricalsara Stores is 46.2% of 2020 revenue.
 
 Interactive slicers for year and date on every page. Core measures: `Revenue`, `Sales Qty`, `Revenue LY`, `Revenue Contribution %`, `Profit Margin %`, `Profit Margin Contribution %`, `Total Profit Margin`.
